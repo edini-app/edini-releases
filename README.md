@@ -38,10 +38,4 @@ Sí. Una vez instalado, tu negocio sigue operando con normalidad sin conexión: 
 
 ## Soporte
 
-Dudas de uso, errores o problemas de funcionamiento de EDINI:
-
-- **Email:** soporte@edini.ar
-- **WhatsApp:** +54 2302 629252
-- **Horario:** 7 a 13 hs, de lunes a viernes hábiles
-
-No incluye soporte de Windows, impresoras, redes u otro hardware de tu PC, ni tramitar o renovar tu certificado ante ARCA (es un trámite con tu clave fiscal — corresponde a vos o a tu contador).
+Canal, horario y alcance del soporte: ver [edini.ar](https://edini.ar).
